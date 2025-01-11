@@ -3,7 +3,7 @@
 
 💻 My expertise spans across full-stack web development, with a focus on React, Node.js, Express.js, MongoDB, and Tailwind CSS. Currently, I'm working on a series of exciting projects:
 
-<ins>**CareSync**</ins> – An AI-enhanced hospital resource management system designed to optimize patient queuing, bed availability, and admissions, with city-wide integration capabilities.
+<ins>**Debugging Health**</ins> – An AI-enhanced hospital resource management system designed to optimize patient queuing, bed availability, and admissions, with city-wide integration capabilities.
 
 <ins>**NGO Sathi**</ins> – A platform designed to connect users with NGOs across the city, acting as a “Google for NGOs” for easier access to resources and contribution opportunities.
 
